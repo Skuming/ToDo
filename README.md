@@ -3,6 +3,10 @@
 `npm i && npm run start`
 You can also use a dev mode, `npm run dev`
 
+# About app
+
+This app writen on React + TypeScript using Vite. Also i used Zustand as state manager. 
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
